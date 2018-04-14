@@ -224,3 +224,25 @@ tr {
 .coin-info .row.earnings {
 	margin-bottom: 5px;
 }
+.logo-custom {margin-top:10px;height:40px;margin-right:20px}
+
+/*navbar*/
+
+.navbar {
+  min-height: 60px;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:focus {
+  width: 290px;
+  background-color: rgb(92,76,124);
+  height: 60px;
+  padding: 20px 25px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand:hover {
+	background-color: rgb(34, 35, 40);
+	color:#5c4c7c
+}
